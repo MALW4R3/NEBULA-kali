@@ -1,0 +1,3 @@
+#!/bin/bash
+cd $HOME/NEBULA-kali
+sh update-nebula.sh
